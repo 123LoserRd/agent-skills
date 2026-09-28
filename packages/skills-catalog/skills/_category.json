@@ -7,6 +7,10 @@
     "name": "Cloud & Infrastructure",
     "description": "Skills for cloud management, AWS, and DevOps"
   },
+  "(commerce)": {
+    "name": "Commerce",
+    "description": "Skills for e-commerce and marketplace selling workflows"
+  },
   "(creation)": {
     "name": "Skill & Agent Creation",
     "description": "Skills for creating new skills and subagents"

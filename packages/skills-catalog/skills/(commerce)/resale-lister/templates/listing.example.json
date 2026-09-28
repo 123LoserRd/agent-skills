@@ -1,0 +1,43 @@
+{
+  "sku": "NIKE-TEE-90S-M-001",
+  "title": "Vintage 90s Nike Swoosh T-Shirt Black Mens Medium Cotton Streetwear",
+  "description": "Vintage 90s Nike t-shirt in black with the white swoosh logo on the chest.\n\nSize: Men's M (fits true to size)\nPit to pit: 21in / Length: 28in\nMaterial: 100% cotton\n\nCondition: excellent pre-owned, light fading, small mark on the left sleeve (see last photo).\n\nShips within 1 business day.",
+  "price": "35.00",
+  "currency": "USD",
+  "quantity": 1,
+  "condition": "used_excellent",
+  "brand": "Nike",
+  "photos": ["photos/front.jpg", "photos/back.jpg", "photos/tag.jpg", "photos/flaw.jpg"],
+  "ebay": {
+    "marketplaceId": "EBAY_US",
+    "categoryId": "15687",
+    "merchantLocationKey": "home",
+    "fulfillmentPolicyId": "REPLACE_ME",
+    "paymentPolicyId": "REPLACE_ME",
+    "returnPolicyId": "REPLACE_ME",
+    "conditionDescription": "Light fading, small mark on left sleeve.",
+    "bestOffer": true,
+    "aspects": {
+      "Size": ["M"],
+      "Size Type": ["Regular"],
+      "Color": ["Black"],
+      "Type": ["T-Shirt"],
+      "Department": ["Men"],
+      "Style": ["Basic Tee"],
+      "Material": ["Cotton"],
+      "Vintage": ["Yes"]
+    }
+  },
+  "depop": {
+    "photoBaseUrl": "https://example-bucket.s3.amazonaws.com/listings/NIKE-TEE-90S-M-001",
+    "address": { "country_code": "US", "state": "California" },
+    "department": "menswear",
+    "product_type": "tshirts",
+    "national_shipping_cost": "5.00",
+    "colour": ["black", "white"],
+    "style": ["streetwear", "retro"],
+    "age": ["90s"],
+    "source": ["vintage"],
+    "attributes": {}
+  }
+}
